@@ -1,0 +1,48 @@
+C:\Users\Hong Rakchhai\Desktop\C# Projects\assignment\Lottery_Projeect\Lottery_Projeect\bin\Debug\Lottery_Projeect.exe.config
+C:\Users\Hong Rakchhai\Desktop\C# Projects\assignment\Lottery_Projeect\Lottery_Projeect\bin\Debug\Lottery_Projeect.exe
+C:\Users\Hong Rakchhai\Desktop\C# Projects\assignment\Lottery_Projeect\Lottery_Projeect\bin\Debug\Lottery_Projeect.pdb
+C:\Users\Hong Rakchhai\Desktop\C# Projects\assignment\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.csproj.AssemblyReference.cache
+C:\Users\Hong Rakchhai\Desktop\C# Projects\assignment\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hong Rakchhai\Desktop\C# Projects\assignment\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.Form1.resources
+C:\Users\Hong Rakchhai\Desktop\C# Projects\assignment\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.Properties.Resources.resources
+C:\Users\Hong Rakchhai\Desktop\C# Projects\assignment\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.csproj.GenerateResource.cache
+C:\Users\Hong Rakchhai\Desktop\C# Projects\assignment\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.csproj.CoreCompileInputs.cache
+C:\Users\Hong Rakchhai\Desktop\C# Projects\assignment\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.exe
+C:\Users\Hong Rakchhai\Desktop\C# Projects\assignment\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.pdb
+C:\Users\Hong Rakchhai\Desktop\C# Projects\assignment\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.Form2.resources
+C:\Users\ASUS\Desktop\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.exe
+C:\Users\ASUS\Desktop\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.pdb
+C:\Users\ASUS\Desktop\Lottery_Projeect\Lottery_Projeect\bin\Debug\Lottery_Projeect.exe.config
+C:\Users\ASUS\Desktop\Lottery_Projeect\Lottery_Projeect\bin\Debug\Lottery_Projeect.exe
+C:\Users\ASUS\Desktop\Lottery_Projeect\Lottery_Projeect\bin\Debug\Lottery_Projeect.pdb
+C:\Users\ASUS\Desktop\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.Form1.resources
+C:\Users\ASUS\Desktop\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.Form2.resources
+C:\Users\ASUS\Desktop\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Lottery_Projeect\Lottery_Projeect\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\Lottery_Projeect\Lottery_Projeect\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\Lottery_Projeect\Lottery_Projeect\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\Lottery_Projeect\Lottery_Projeect\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.csproj.CopyComplete
+C:\Users\Hong Rakchhai\Desktop\C# Projects\Lottery_Projeect\Lottery_Projeect\bin\Debug\Lottery_Projeect.exe.config
+C:\Users\Hong Rakchhai\Desktop\C# Projects\Lottery_Projeect\Lottery_Projeect\bin\Debug\Lottery_Projeect.exe
+C:\Users\Hong Rakchhai\Desktop\C# Projects\Lottery_Projeect\Lottery_Projeect\bin\Debug\Lottery_Projeect.pdb
+C:\Users\Hong Rakchhai\Desktop\C# Projects\Lottery_Projeect\Lottery_Projeect\bin\Debug\EntityFramework.dll
+C:\Users\Hong Rakchhai\Desktop\C# Projects\Lottery_Projeect\Lottery_Projeect\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hong Rakchhai\Desktop\C# Projects\Lottery_Projeect\Lottery_Projeect\bin\Debug\EntityFramework.xml
+C:\Users\Hong Rakchhai\Desktop\C# Projects\Lottery_Projeect\Lottery_Projeect\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hong Rakchhai\Desktop\C# Projects\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.csproj.AssemblyReference.cache
+C:\Users\Hong Rakchhai\Desktop\C# Projects\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hong Rakchhai\Desktop\C# Projects\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.Form1.resources
+C:\Users\Hong Rakchhai\Desktop\C# Projects\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.Form2.resources
+C:\Users\Hong Rakchhai\Desktop\C# Projects\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.Properties.Resources.resources
+C:\Users\Hong Rakchhai\Desktop\C# Projects\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.csproj.GenerateResource.cache
+C:\Users\Hong Rakchhai\Desktop\C# Projects\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.csproj.CoreCompileInputs.cache
+C:\Users\Hong Rakchhai\Desktop\C# Projects\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.csproj.CopyComplete
+C:\Users\Hong Rakchhai\Desktop\C# Projects\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.exe
+C:\Users\Hong Rakchhai\Desktop\C# Projects\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.pdb
+C:\Users\Hong Rakchhai\Desktop\C# Projects\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.HomeForm.resources
+C:\Users\Hong Rakchhai\Desktop\C# Projects\Lottery_Projeect\Lottery_Projeect\obj\Debug\Lottery_Projeect.redAndblack.resources
